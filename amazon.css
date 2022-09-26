@@ -1,0 +1,67 @@
+body{
+	margin: 0px;
+}
+.b{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	height: 70px;
+	width: 100%;
+	background-color:black ;
+}
+.d{
+	height: 100%;
+	width: 9%;
+}
+.e{
+	font-weight: 1000;
+	color: white;
+	position: relative;
+	bottom: 20px;
+}
+
+.f{
+	position: absolute;
+	top: 35px;
+	left: 90%;
+	color: white;
+	font-weight: 1000;
+}
+.h{
+	border: 0px;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	height: 50px;
+	width: 100%;
+	background-color:#0a2d42 ;
+	font-weight: 700;
+}
+.h a{
+	height: 100%;
+	color: white;
+	padding: 10px;
+	padding-top:0%;
+	display: inline-block;
+}
+.j{
+	background-image:url("amazoninterface.jpg");
+	height:500px;
+	width: 100%;
+	text-align: center;
+}
+.k{
+	position: sticky;
+	top: 50px;
+	color: yellow;
+	padding-left: 200px;
+}
+.prod{
+	text-align:center;
+	font-size:30px;
+}
+.pic{
+	padding: 20px;
+	display: inline-block;
+}
+
